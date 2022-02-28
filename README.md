@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JamesLewis1985
-- 👀 I’m interested in ... Data Science and Data Visulations
+- 👀 I’m interested in ... Data Science and Data Visualizations
 - 🌱 I’m currently learning ... R , Python
 - 💞️ I’m looking to collaborate on ... anything
 - 📫 How to reach me ... jamesaustinlewis1985@gmail.com
